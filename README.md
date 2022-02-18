@@ -1,5 +1,5 @@
 # Proyecto-POO
-#Software para un Aeropuerto
+# Software para un Aeropuerto
 
 Diseñar y codificar una aplicación informática para una compañía de gestión aeroportuaria satisfaciendo los siguientes requisitos: 
 Para cada aeropuerto es necesario saber:
